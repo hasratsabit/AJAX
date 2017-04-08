@@ -1,0 +1,22 @@
+button {
+  padding: 10px;
+  border: 0;
+  background-color: green;
+  color: #FFF;
+  transition: all 300ms ease-in-out;
+}
+
+.container {
+  width: 100%;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.container p {
+  width: 100%;
+  background-color: #ccc;
+}
+
+.hide-me {
+  display: none;
+}
