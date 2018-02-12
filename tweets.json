@@ -1,0 +1,22 @@
+{
+ "tweets": [
+     {
+        "username": "hasratsabit",
+        "tweet": "This is a tweet",
+        "likes": 200,
+        "retweets": 400
+     },
+     {
+        "username": "johndoe",
+        "tweet": "This john's tweets",
+        "likes": 100,
+        "retweets": 200
+     },
+     {
+        "username": "smithdoe",
+        "tweet": "Smith's tweets",
+        "likes": 20,
+        "retweets": 40
+     }
+ ]
+}
